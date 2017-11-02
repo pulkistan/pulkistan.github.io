@@ -10,7 +10,7 @@ our national anthem:
 
 > Malayaam, subrata jyotsam, **pulkistan**, sumita, dumala Tsunamim, suhasin, sumandra bhulsumanee
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/TVi8KipVBi8" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="504" height="360" src="https://www.youtube.com/embed/TVi8KipVBi8" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 * * *
 
